@@ -1,0 +1,16 @@
+body {
+background-color: lightblue;
+}
+
+h1 {
+font-size: 25;
+color: white;
+}
+
+p {
+font-family: verdana;
+}
+
+#foo {
+color: red;
+}
