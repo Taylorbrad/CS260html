@@ -5,3 +5,8 @@ h1, p {
  em, strong {
    background-color: #B2D6FF;
  }
+
+ h1 {
+   padding: 50px;
+   border: 1px solid #3D6063
+ }
