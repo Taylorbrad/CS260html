@@ -10,3 +10,7 @@ h1, p {
    padding: 50px;
    border-bottom: 1px solid #5D6063;
  }
+ p {
+   margin-top: 25px;
+   margin-bottom: 50px;
+ }
