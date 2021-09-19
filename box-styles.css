@@ -37,6 +37,7 @@ h1, p {
  li {
    border-right: 1px solid #bbb;
    float: left;
+   background-color: #111;
  }
  li:last-child {
   border-right: none;
