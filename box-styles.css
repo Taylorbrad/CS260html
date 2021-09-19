@@ -31,6 +31,10 @@ h1, p {
    margin: 20px auto;
  }
 
+ li {
+   display: inline;
+ }
+
  .button {
    color: #FFF;
    background-color: #5995DA;
