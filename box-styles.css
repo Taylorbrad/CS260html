@@ -1,8 +1,12 @@
-* { /* Reset */
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
+h1, p {
+   background-color: #DDE0E3;
+ }
 
  em, strong {
    background-color: #B2D6FF;
@@ -25,10 +29,6 @@
 
    box-sizing: border-box;
    margin: 20px auto;
- }
-
- li {
-   display: inline;
  }
 
  .button {
@@ -60,6 +60,7 @@
    list-style-type: none;
    margin: 0;
    padding: 0;
+   display: inline;
  }
  .container2 {
    margin: auto;
