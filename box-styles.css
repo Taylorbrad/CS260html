@@ -37,6 +37,7 @@ h1, p {
  li {
    border-right: 1px solid #bbb;
    float: left;
+   background-color: #A4D63D;
  }
  li:last-child {
   border-right: none;
@@ -57,7 +58,7 @@ h1, p {
  }
 
  li a:hover {
-   background-color: #111;
+   background-color: lightblue;
  }
 /*
 h2 {
