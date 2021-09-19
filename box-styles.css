@@ -44,3 +44,18 @@ h1, p {
    box-sizing: border-box;
    margin: 20px auto;
  }
+
+ #container {
+   margin: auto;
+   width: 70%;
+   display: flex;
+ }
+ .container2 {
+   margin: auto;
+   width: 70%;
+   display: flex;
+ }
+ h1 {
+   /* padding: 30px 2em;  V / H */
+   padding: 20px 20px 20px 20px; /* Top / Right / Bottom / Left */
+ }
