@@ -35,6 +35,12 @@ h1, p {
    display: inline;
  }
 
+ a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+ }
+
  .button {
    color: #FFF;
    background-color: #5995DA;
