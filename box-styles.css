@@ -50,10 +50,16 @@ h1, p {
    margin: 0 auto;
  }
 
- #container {
+ #head-nav {
    margin: auto;
    width: 70%;
    display: flex;
+ }
+
+ #sidebar {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
  }
  .container2 {
    margin: auto;
