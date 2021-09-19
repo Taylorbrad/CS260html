@@ -37,7 +37,7 @@ h1, p {
 
  a {
   display: block;
-  padding: 20px;
+  padding: 0 20px 0 20px;
   background-color: #dddddd;
  }
 
