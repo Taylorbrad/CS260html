@@ -40,6 +40,16 @@ h1, p {
   padding: 0 20px 0 20px;
   background-color: #dddddd;
  }
+ li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+ }
+ li a:hover {
+   background-color: #111;
+ }
 
  .button {
    color: #FFF;
