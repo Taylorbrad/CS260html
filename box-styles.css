@@ -32,7 +32,7 @@ h1, p {
  }
 
  li {
-   display: float;
+   float: left;
  }
 
  a {
