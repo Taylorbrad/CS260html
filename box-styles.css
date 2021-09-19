@@ -69,6 +69,9 @@ h1, p {
    box-sizing: border-box;
    margin: 20px auto;
  }
+ .button:hover {
+   background-color: #111;
+ }
 
  .page {
    width: 600px;
