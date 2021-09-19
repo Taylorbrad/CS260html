@@ -26,4 +26,5 @@ h1, p {
 
    width: 200px;
    box-sizing: border-box;
+   margin: 20px auto;
  }
