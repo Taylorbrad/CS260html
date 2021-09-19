@@ -55,11 +55,11 @@ h1, p {
  li a:hover {
    background-color: #111;
  }
-
+/*
 h2 {
   padding: 140px 16px;
   background-color: #A4D63D;
-}
+}*/
  .button {
    color: #FFF;
    background-color: #5995DA;
