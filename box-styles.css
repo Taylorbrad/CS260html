@@ -6,7 +6,15 @@ h1, p {
    background-color: #B2D6FF;
  }
 
-<<<<<<< HEAD
+ h1 {
+   padding: 50px;
+   border-bottom: 1px solid #5D6063;
+ }
+ p {
+   margin-top: 25px;
+   margin-bottom: 50px;
+ }
+
  div {
    color: #FFF;
    background-color: #5995DA;
@@ -15,13 +23,4 @@ h1, p {
    text-align: center;
    border: 2px solid #5D6063;
    border-radius: 5px;
-=======
- h1 {
-   padding: 50px;
-   border-bottom: 1px solid #5D6063;
- }
- p {
-   margin-top: 25px;
-   margin-bottom: 50px;
->>>>>>> 46a4ee4498fd1848415d29092982941c3c76d773
  }
